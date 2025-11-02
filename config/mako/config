@@ -1,0 +1,25 @@
+max-history=5
+sort=-time
+
+on-button-left=invoke-default-action
+on-button-right=dismiss
+
+font=DejaVu Sans Mono 10
+background-color=#1e1e2e
+text-color=#ffffff
+width=350
+height=1000
+border-size=1
+margin=4
+padding=8
+border-size=1
+border-color=#89b4fa
+border-radius=0
+icons=0
+markup=1
+actions=1
+history=1
+format=<b>%s</b>\n\n%b
+text-alignment=left
+default-timeout=10000
+max-visible=8
